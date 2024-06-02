@@ -1,6 +1,6 @@
 # House Price Prediction using Linear Regression with Gradient Descent
 
-## This project demonstrates the use of linear regression for predicting house prices using the scikit-learn library in Python. The model is trained using the Stochastic Gradient Descent (SGD) algorithm. The workflow includes data preprocessing, model training, prediction, and evaluation of the model's performance.
+This project demonstrates the use of linear regression for predicting house prices using the scikit-learn library in Python. The model is trained using the Stochastic Gradient Descent (SGD) algorithm. The workflow includes data preprocessing, model training, prediction, and evaluation of the model's performance.
 
 ## Overview
 ### The main steps in this project are:
